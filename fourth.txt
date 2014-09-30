@@ -1,3 +1,5 @@
 Added on master 1
 Master keeps going
 Master still going on
+Added on rebase test
+More on rebase test
